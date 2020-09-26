@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 
 
 
-### Skills 💻
+## Skills 💻
 Javascript, Node.js , ReactJS, Express, MongoDB, Mongoose ODM, HTML, CSS, Bootstrap, Git, REST API, Heroku, Firebase(Beginner), inkscape, C & Java  
 
-### Projects 🧐
+## Projects 🧐
 
 1. <a href="https://shopping-app14.herokuapp.com/">Shopping web-app using MERN stack</a> <br/>
 👉
