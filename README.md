@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a CSE student. I like to explore and work on new technologies. Till now, i have got my hands on NodeJS, ReactJS, SocketIO, Firebase, React-360 and React native. I can also do some basic Graphic stuffs with the help of inkscape. In case if you want to connect with me, here's my <a href="https://www.linkedin.com/in/rahulranjan14"> Linkedin Profile </a>  
+I am a 3rd year CSE student. I like to explore and work on new technologies. Till now, i have got my hands on NodeJS, ReactJS, SocketIO, Firebase, React-360 and React native. I can also do some basic Graphic stuffs with the help of inkscape. In case if you want to connect with me, here's my <a href="https://www.linkedin.com/in/rahulranjan14"> Linkedin Profile </a>  
 
 <!--
 **rahulranjan14/rahulranjan14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
